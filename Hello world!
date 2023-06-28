@@ -1,0 +1,8 @@
+# Python program to concatenate two strings and a given input
+def say_hello(name):
+    return "Hello, " + name + "!"
+print (say_hello("Jae"))   
+print (say_hello("Pat"))
+print (say_hello("Astr")) 
+print("This example concatenates two strings and a given input")
+
